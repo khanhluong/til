@@ -11,3 +11,8 @@ https://dart.dev/codelabs/dart-cheatsheet
 ssh-keygen -t rsa
 //copy key
 pbcopy < ~/.ssh/id_rsa.pub
+
+# Native script https://nativescript.org/
+
+Create Native iOS and Android Apps with JavaScript
+https://docs.nativescript.org/
