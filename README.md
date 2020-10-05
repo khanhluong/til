@@ -18,4 +18,4 @@ Create Native iOS and Android Apps with JavaScript
 https://docs.nativescript.org/
 
 ## CSS
-https://golang.org/pkg/container/list/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
