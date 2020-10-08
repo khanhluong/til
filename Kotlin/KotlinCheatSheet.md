@@ -2,6 +2,7 @@
 
 ## When Expression
 
+```kotlin
 when (x) {
     1 -> print("x == 1")
     2 -> print("x == 2")
@@ -9,5 +10,6 @@ when (x) {
         print("x is neither 1 nor 2")
     }
 }
+```
 
 ## Generic (https://kotlinlang.org/docs/reference/generics.html)
