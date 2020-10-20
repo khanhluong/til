@@ -22,3 +22,10 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Android Note
 
+
+## Disable animation
+*, :before, :after {
+ transition-property: none !important;
+ transform: none !important;
+ animation: none !important;
+ }
